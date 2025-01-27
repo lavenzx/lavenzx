@@ -1,5 +1,4 @@
-# Hi I'm Zhi Xun!! 
-![Waving Hand](https://s7.gifyu.com/images/Se5Zc.gif)
+# Hi I'm Zhi Xun!! ![Waving Hand](https://s13.gifyu.com/images/Se5ZZ.gif)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheong-zhi-xun) 
 
